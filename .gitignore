@@ -1,3 +1,7 @@
 # KiCAD cache and backup files
 *.bak
+*.kicad_pcb-bak
 *-cache.lib
+
+# KiCAD netlist
+*.net
